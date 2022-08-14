@@ -1,21 +1,24 @@
-# Challenge_10
+## Crypto-Clustering
+
+
+## Import the Data
 
 
 
-Here is the Markdown syntax for this:
+## Prepare the Data
 
-# Project Title
-# Financial Planning Tool
 
-## Technologies
-## Monte Carlo
-## Alpaca
+## Find the Best Value for k Using the Original Data
 
-### Contributors
 
-List the people who contributed to the project, as well as your contact information.
-### Anthony Stallworth - Contributor
 
-## License
+## Cluster Cryptocurrencies with K-means Using the Original Data
 
-Copy Away
+
+
+## Optimize Clusters with Principal Component Analysis
+
+
+
+## Find the Best Value for k Using the PCA Data
+
